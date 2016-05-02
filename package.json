@@ -16,6 +16,10 @@
     "url": "https://github.com/ded/domready.git"
   },
   "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-rename": "1.2.2",
+    "gulp-uglify": "1.5.3",
+    "pump": "1.0.1",
     "smoosh": ">=0.3.0"
   }
 }
